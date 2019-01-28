@@ -1,0 +1,110 @@
+[
+
+// books json or seeds for db,  seeds for db, how about both?  state,  external json file, array all serve as substitutes for dbs and connecting to dbs.
+  { "id": 1
+    authors: ["Suzanne Collins"]
+    description: "Set in a dark vision of the near future, a terrifying reality TV show is taking place. Twelve boys and twelve girls are forced to appear in a live event called The Hunger Games. There is only one rule: kill or be killed. When sixteen-year-old Katniss Everdeen steps forward to take her younger sister's place in the games, she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature."
+    image: "http://books.google.com/books/content?id=sazytgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    link: "http://books.google.com/books?id=sazytgAACAAJ&dq=title:The+Hunger+Games&hl=&source=gbs_api"
+    title: "The Hunger Games"
+  }
+
+
+  {
+    "id": 1,
+    "name": "Herbie",
+    "image": "/assets/images/sb1.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Beach Bug",
+    "image": "/assets/images/sb2.jpg"
+  
+  },
+  {
+    "id": 3,
+    "name": "Gold Bug",
+    "image":"/assets/images/sb3.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "Yellow Bug",
+    "image": "/assets/images/sb4.jpg"
+   
+  },
+  {
+    "id": 5,
+    "name": "Pink Bug",
+    "image": "/assets/images/sb5.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "Rusty Bug",
+    "image": "/assets/images/sb6.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "Green Bug",
+    "image": "/assets/images/sb7.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "Lime Bug",
+    "image": "/assets/images/sb8.jpg"
+    
+  },
+  {
+    "id": 9,
+    "name": "Red Bug",
+    "image": "/assets/images/sb9.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "Basket Bug",
+    "image": "/assets/images/sb10.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "Converti Bug",
+    "image": "/assets/images/sb11.jpg"
+ 
+  },
+  {
+    "id": 12,
+    "name": "Blue Bug",
+    "image": "/assets/images/sb12.jpg"
+
+  },
+  {
+    "id": 13,
+    "name": "Black Bug",
+    "image": "/assets/images/sb13.jpg"
+
+  },
+  {
+    "id": 14,
+    "name": "Forest Bug",
+    "image": "/assets/images/sb14.jpg"
+
+  },
+  {
+    "id": 15,
+    "name": "Flower Bug",
+    "image": "/assets/images/sb15.jpg"
+
+  },
+  {
+    "id": 16,
+    "name": "White Bug",
+    "image": "/assets/images/sb16.jpg"
+
+  }
+
+]
